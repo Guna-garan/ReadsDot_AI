@@ -41,5 +41,4 @@ Place your ONNX model at `public/models/yolov8n-braille.onnx`.
 2. **Stabilised** — Medoid across last 10 frames (most consistent reading)  
 3. **Corrected** — Levenshtein spell correction against English word dictionary
 
-## Contributing
-See `CONTRIBUTING.md` for how to contribute.
+
